@@ -8,9 +8,9 @@
                           <div class="contact-info-one__icon"><i class="kipso-icon-manager"></i><!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">About Us </h2><!-- /.contact-info-one__title -->
-                          <p class="contact-info-one__text">Lorem ipsum is simply free text <br> available in the market to
-                              use <br>
-                              deliver satisfaction.</p><!-- /.contact-info-one__text -->
+                          <p class="contact-info-one__text">Welcome to my Devops QA Website. <br> Devopsand Automation is the
+                              future. <br>
+                              Cloud is the best.</p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
                   <div class="col-lg-4">
@@ -19,8 +19,8 @@
                               <!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">Our Address</h2><!-- /.contact-info-one__title -->
-                          <p class="contact-info-one__text">855 Road Canton Street, <br>
-                              600 Michigan, United States of <br> America</p><!-- /.contact-info-one__text -->
+                          <p class="contact-info-one__text">5423 Heavens Dr, <br>
+                              Heavens Ohio 43001, United States of <br> America</p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
                   <div class="col-lg-4">
@@ -28,8 +28,8 @@
                           <div class="contact-info-one__icon"><i class="kipso-icon-contact"></i><!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">Contact Info</h2><!-- /.contact-info-one__title -->
-                          <p class="contact-info-one__text">needhelp@adfg.com <br>
-                              444 888 0000 <br> &nbsp; </p><!-- /.contact-info-one__text -->
+                          <p class="contact-info-one__text">devops@devops.com <br>
+                              614-500-9202 <br> &nbsp; </p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
                   </div><!-- /.col-lg-4 -->
               </div><!-- /.row -->
