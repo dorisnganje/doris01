@@ -8,7 +8,7 @@
                           <div class="contact-info-one__icon"><i class="kipso-icon-manager"></i><!-- /.kipso-icon-manager -->
                           </div><!-- /.contact-info-one__icon -->
                           <h2 class="contact-info-one__title">About Us </h2><!-- /.contact-info-one__title -->
-                          <p class="contact-info-one__text">Welcome to my Devops QA Website. <br> Devopsand Automation is the
+                          <p class="contact-info-one__text">Welcome to my Devops QA Website. <br> Devops and Automation is the
                               future. <br>
                               Cloud is the best.</p><!-- /.contact-info-one__text -->
                       </div><!-- /.contact-info-one__single -->
